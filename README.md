@@ -1,2 +1,7 @@
 # photo-layouts
-照片排版程序
+
+a simple photo layout program
+
+## License
+
+MIT
