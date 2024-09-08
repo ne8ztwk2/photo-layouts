@@ -1,6 +1,6 @@
 # photo-layouts
 
-a simple photo layout program
+a simple photo layout program.
 
 ## License
 
